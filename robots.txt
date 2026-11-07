@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/martin-brothers-roofing-fremont/sitemap.xml
+Sitemap: https://local-business-guides.github.io/martin-brothers-roofing-fremont/news-sitemap.xml
